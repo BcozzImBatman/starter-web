@@ -11,5 +11,7 @@ This example is to show different parts of Git repository and various commands u
 Sample website with plenty of files for demos
 
 ## Deployment
+TBD
 
 ## How to contribute
+TBD
